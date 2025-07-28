@@ -1,0 +1,3 @@
+# using replace to replace the space with ...
+playback = input().replace(" ", "...")
+print(playback)
